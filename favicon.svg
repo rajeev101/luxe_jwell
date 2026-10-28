@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="VELORA favicon">
+  <rect width="128" height="128" rx="18" fill="#FAF7F0"/>
+  <circle cx="64" cy="64" r="38" fill="none" stroke="#C6A56B" stroke-width="3"/>
+  <path d="M32 64c8-18 20-26 32-26 13 0 24 8 32 26-8 18-19 26-32 26-12 0-24-8-32-26Z" fill="#C6A56B" opacity="0.14"/>
+  <path d="M64 28c9 0 17 2 23 7-7 2-13 7-17 13-4-6-10-11-17-13 6-5 14-7 23-7Zm-2 18c3 0 6 1 8 3-4 2-7 4-10 8l-4-2c1-3 3-6 6-9Zm2 16c0 0 11 0 17 8-3 4-8 7-14 8-7-1-12-4-16-8 6-7 13-8 13-8Z" fill="#302720"/>
+</svg>
